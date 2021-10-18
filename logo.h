@@ -1,0 +1,44 @@
+
+#ifndef PROJETO_BARBEARIA_CLION_V1_0_LOGO_H
+#define PROJETO_BARBEARIA_CLION_V1_0_LOGO_H
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+
+void printLogo();
+
+void printLogo()
+{
+    setlocale(LC_ALL,"portuguese");
+    printf("WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW@##==*+++:::#WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWWWWWWWWWW@::+::::::::+++:=WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWW#WWWWWWWWWWWWWW@:+**:::++*+:::++:+=WWWWWWWWWWWWWWWWWWW#@WWWWWWWWWW\n");
+    printf("WWWWWWWWWW#...-*WWWWWWWWWWWWW*+++:::---::::::----:*WWWWWWWWWWWWWW=-...*WWWWWWWW\n");
+    printf("WWWWWWWWWWWW=.--:=WWWWWWWWWW@::::=#===#WWWWWWWW#::::WWWWWWWWWWW#:--.+WWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWW*---+=WWWWWWWW@:+*WWWWWWWWWWWWWWWW@==#@#######W@+---+WWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWW*--:+#WWWWWW@+++WWW@@@@@####################*+**=@@WWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWW+--+*@@@@##############=###=*======##########@@WWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWW*#######==#=#=**=**@##=*#==#=##@##########@@@WWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWW#######=====#=#@@@####@#####@=@@@WWW@###@#@@@WWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWW@@@##@##############@@#########@WWWW=WWW@@######@@WWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWW@@@##@@@@@@WW@*@########@@########=@@#+#WWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWW@@@###@##@WWW#+*###@WWWWWWWWW@###+*###WWWWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWW@@@#####@@W@WW*+:+##*++*#W@*++*#=+:+=WW@WWWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWWWWWWWW==********+++@*++*********=@WWWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWWWWWWWW@+****++:+*@WWW@=+:++****+WWWWWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWWWWWWWWW****+**==@@#+#@@#=**++**=WWWWWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWWWWWWWW@=:*+*++*+++:::++*+++*+*+*#WWWWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWWWWWWWW#:*:*:++++:+:::+:+*++:*+++*WWWWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWWWWWWWW**+*+++:*:+++:+++:*:*+:*+*+WWWWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWWW@@@@@@@@#=##################=@@W@@@@@WWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWWW@@@@@@@@#   VERSAO BETA     =@@W@@@@@WWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWWW@@@@@####################=######@@@@@@WWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWW@WWWWW@@=**+*:*+:++::+::+:*+**=@@WWWWW@WWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW@**+*:+:++:++:+:++**#WWWWWWWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW@#*++++:+:*:*=#WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW#WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\n");
+    printf("\n\n\n");
+
+}
+#endif //PROJETO_BARBEARIA_CLION_V1_0_LOGO_H

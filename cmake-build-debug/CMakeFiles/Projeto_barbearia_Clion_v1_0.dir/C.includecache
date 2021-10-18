@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cliente_bib.h
+stdbool.h
+-
+
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/data_bib.h
+
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/produtos_bib.h
+data_bib.h
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/data_bib.h
+stdbool.h
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/stdbool.h
+
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/relatorio_venda.c
+produtos_bib.h
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/produtos_bib.h
+cliente_bib.h
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cliente_bib.h
+servicos_bib.h
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/servicos_bib.h
+data_bib.h
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/data_bib.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+stdbool.h
+-
+relatorio_venda.h
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/relatorio_venda.h
+
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/relatorio_venda.h
+cliente_bib.h
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cliente_bib.h
+produtos_bib.h
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/produtos_bib.h
+servicos_bib.h
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/servicos_bib.h
+
+C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/servicos_bib.h
+stdbool.h
+-
+

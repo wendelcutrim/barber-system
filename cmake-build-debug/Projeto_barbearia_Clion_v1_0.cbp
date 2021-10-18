@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Projeto_barbearia_Clion_v1_0"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Projeto_barbearia_Clion_v1_0">
+				<Option output="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Projeto_barbearia_Clion_v1_0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projeto_barbearia_Clion_v1_0"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Projeto_barbearia_Clion_v1_0/fast">
+				<Option output="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Projeto_barbearia_Clion_v1_0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projeto_barbearia_Clion_v1_0/fast"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cliente_bib.c">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/cliente_bib.h">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/data_bib.c">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/data_bib.h">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/login.c">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/login.h">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/logo.h">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/main.c">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/produtos_bib.c">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/produtos_bib.h">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/relatorio_venda.c">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/relatorio_venda.h">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/servicos_bib.c">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/servicos_bib.h">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/vendas_bib.c">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/vendas_bib.h">
+			<Option target="Projeto_barbearia_Clion_v1_0"/>
+		</Unit>
+		<Unit filename="C:/Users/giova/CLionProjects/Projeto barbearia Clion v1.0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

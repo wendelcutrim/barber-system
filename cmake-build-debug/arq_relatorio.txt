@@ -1,0 +1,50 @@
+Data        : 20/11/2020
+Cliente     : KAUAN MIGUEL
+Servico     : CORTE DE CABELO MASCULINO | Valor : R$ 15,00
+Servico     : APARAR BARBA | Valor : R$ 15,00
+Produto     : SHAMPOO COM SUBSTRATO DE FERRO | Quantidade : 1,0 | Valor unitario : R$ 19,50
+Produto     : POMADA MODELADORA SHARK | Quantidade : 1,0 | Valor unitario : R$ 13,00
+Produto     : REFRIGERANTE LATA 350 ML | Quantidade : 1,0 | Valor unitario : R$ 3,90
+Produto     : SALGADINHO TORCIDA SABORES | Quantidade : 1,0 | Valor unitario : R$ 1,30
+Valor total : R$   67,70
+---------------------------------------------------------------------------------------------------
+Data        : 20/11/2020
+Cliente     : GUILHERME FREIRE 
+Servico     : TINTURA | Valor : R$ 30,00
+Servico     : SOBRANCELHAS | Valor : R$ 12,00
+Produto     : SHAMPOO COM SUBSTRATO DE FERRO | Quantidade : 1,0 | Valor unitario : R$ 19,50
+Produto     : CERVEJA SKOL LATA 350 ML | Quantidade : 2,0 | Valor unitario : R$ 2,60
+Valor total : R$   66,70
+---------------------------------------------------------------------------------------------------
+Data : 20/11/2020
+Cliente     : Nao cadastrado 
+Servico     : RELAXAMENTO CAPILAR | Valor : R$ 40,00
+Servico     : SOBRANCELHAS | Valor : R$ 12,00
+Servico     : CORTE DE CABELO MASCULINO | Valor : R$ 15,00
+Produto     : SHAMPOO COM SUBSTRATO DE FERRO | Quantidade : 1,0 | Valor unitario : R$ 19,50
+Produto     : CERVEJA SKOL LATA 350 ML | Quantidade : 2,0 | Valor unitario : R$ 2,60
+Produto     : OLEO HIDRATANTE PARA BARBA | Quantidade : 1,0 | Valor unitario : R$ 39,00
+Valor total : R$   106,00
+---------------------------------------------------------------------------------------------------
+Data        : 20/11/2020
+Cliente     : GIOVANI RICARDO 
+Servico     : CORTE DE CABELO MASCULINO | Valor : R$ 15,00
+Servico     : APARAR BARBA | Valor : R$ 15,00
+Produto     : SHAMPOO COM SUBSTRATO DE FERRO | Quantidade : 1,0 | Valor unitario : R$ 19,50
+Produto     : CERVEJA SKOL LATA 350 ML | Quantidade : 2,0 | Valor unitario : R$ 2,60
+Produto     : OLEO HIDRATANTE PARA BARBA | Quantidade : 1,0 | Valor unitario : R$ 39,00
+Produto     : REFRIGERANTE LATA 350 ML | Quantidade : 1,0 | Valor unitario : R$ 3,90
+Produto     : SALGADINHO TORCIDA SABORES | Quantidade : 1,0 | Valor unitario : R$ 1,30
+Valor total : R$   35,20
+---------------------------------------------------------------------------------------------------
+Data        : 21/11/2020
+Cliente     : KAUAN MIGUEL 
+Servico     : CORTE DE CABELO MASCULINO | Valor : R$ 15,00
+Produto     : OLEO HIDRATANTE PARA BARBA | Quantidade : 1,0 | Valor unitario : R$ 39,00
+Valor total : R$   54,00
+---------------------------------------------------------------------------------------------------
+Data        : 22/11/2020
+Cliente     : ANDRE SOARES 
+Servico     : APARAR BARBA | Valor : R$ 15,00
+Produto     : SHAMPOO COM SUBSTRATO DE FERRO | Quantidade : 1,0 | Valor unitario : R$ 19,50
+Valor total : R$   34,50
